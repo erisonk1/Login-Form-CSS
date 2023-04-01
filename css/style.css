@@ -14,14 +14,19 @@ background-color: black;
 
 .container {
 width: 100vw;
-height: 100vh
- display: flex;
+height: 100vh;
+display: flex;
 flex-direction: column;
 gap: 30px;
 
 }
 
-iframe {
-width: 75%;
-height: 40%;
+.baiano{
+width: 75vw;
+height: 40vh;
+}
+
+.cblol{
+width: 75vw;
+height: 40vh;
 }
